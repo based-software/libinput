@@ -13,18 +13,6 @@ of our community. Here is some important information to help you.
     :local:
 
 ------------------------------------------------------------------------------
-Code of Conduct
-------------------------------------------------------------------------------
-
-As a freedesktop.org project, libinput follows the `freedesktop.org
-Contributor Covenant <https://www.freedesktop.org/wiki/CodeOfConduct>`_.
-
-Please conduct yourself in a respectful and civilised manner when
-interacting with community members on mailing lists, IRC, or bug trackers.
-The community represents the project as a whole, and abusive or bullying
-behaviour is not tolerated by the project.
-
-------------------------------------------------------------------------------
 Contact
 ------------------------------------------------------------------------------
 
